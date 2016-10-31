@@ -10,7 +10,6 @@ Then open the project file (.pro) on QT Creator and click _build and run_.
 This implementation is according to the following equation:
 
 ![Example Image](https://raw.githubusercontent.com/alexandretok/homomorfic-filter/master/images/homomorfico-eq.png "Example Image")
-![Examp
 
 This is what it looks like:
 
